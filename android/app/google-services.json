@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "392912679513",
+    "firebase_url": "https://picnotes-21081.firebaseio.com",
+    "project_id": "picnotes-21081",
+    "storage_bucket": "picnotes-21081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392912679513:android:58cb73d9c718dcea533748",
+        "android_client_info": {
+          "package_name": "com.philip.picnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392912679513-tkdm39v1t0nr2lcgpkfjj74db5gidfaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT4mFJZMmTVaF3T8RfPnr3_ybo-oVBJg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392912679513-tkdm39v1t0nr2lcgpkfjj74db5gidfaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
